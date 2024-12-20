@@ -1,0 +1,7 @@
+standard sort ran for 0.00156908 seconds
+bubble sort ran for 38.6718 seconds
+insertion sort ran for 13.6102 seconds
+
+standard sort was 38.67023092 seconds faster than bubble sort and 13.60863092 faster than insertion sort.
+insertion sort was 25.0616 seconds faster than bubble sort.
+
